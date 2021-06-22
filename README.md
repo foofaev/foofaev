@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Metrics](https://github.com/alex-popov-tech/alex-popov-tech/blob/master/github-metrics.svg)
 <!--
 **foofaev/foofaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
